@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           React + Github Pages = Awesomeness!!!
         </p>
-        <a href="">Link</a>
+        <a href="/">https://github.com/xabre96/website</a>
       </div>
     );
   }
